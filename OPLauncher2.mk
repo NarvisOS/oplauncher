@@ -15,6 +15,6 @@ PRODUCT_PACKAGES += \
     OPIconpackOxygen1 \
     OPIconpackSquare1 \
     OPWeather1 \
-    OPWidget1 \ 
+    OPWidget1 \
     ScreenRecord
 
